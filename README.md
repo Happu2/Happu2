@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring full stack developer with a strong foundation in full-stack development and a passion for crafting clean, responsive web interfaces. Experienced with React.js, Next.js, TypeScript, and Tailwind CSS and node.js
+Aspiring full stack developer with a strong foundation in full-stack development and a passion for crafting clean, responsive web interfaces. Experienced with React.js, Next.js, TypeScript, and Tailwind CSS and node.js,spring boot and java
 
 
 ## 🌐 Socials:
